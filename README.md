@@ -1,2 +1,2 @@
-# IBM-Watson-Studio
-Import files from IBM Watson Studio for Capston Project
+# Git Hub Learning
+### Learn about the basics of Git Hub manupilation
